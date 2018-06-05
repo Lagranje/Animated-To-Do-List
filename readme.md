@@ -2,5 +2,5 @@
 ![screenshot of ro do list](./doc/1screen.png)
 Using *Jquery.js* for animations
 # Try it out
-Write your own todos.
+Write your own todos<br>
 http://animatedtodolist.zzz.com.ua/
